@@ -1,0 +1,19 @@
+header {
+    border: 100% !important;
+    background-color: blue;
+    color: azure;
+    text-align: center;
+    height: 180px;
+    padding: 3%;
+}
+img {
+    max-width: 200px;
+}
+footer {
+    border: 100% !important;
+    background-color: blue;
+    color: azure;
+    text-align: center;
+    height: 180px;
+    padding: 3%;
+}
